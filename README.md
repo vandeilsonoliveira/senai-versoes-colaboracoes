@@ -2,4 +2,5 @@
 Repositório de versões e colaborações
 
 Exemplo de ReadMe
-Teste Branch
+
+lembrei do comando: git status
